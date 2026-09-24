@@ -26,7 +26,7 @@ temperaturas registradas por um sensor. O programa deve ser capaz de:
 
 ---
 
-## ⚙️ Funcionamento do programa
+## Funcionamento do programa
 
 ### Definição do limite de temperatura
 
@@ -187,12 +187,12 @@ encerramento automático **não** foi disparado.
 limite, e o programa encerrou automaticamente o monitoramento por segurança —
 comportamento previsto no desafio.
 
-> 📸 As capturas de tela da execução real (evidências) estão anexadas junto a
+> As capturas de tela da execução real (evidências) estão anexadas junto a
 > esta entrega, complementando os resultados descritos acima.
 
 ---
 
-## 💭 Reflexão final
+## Reflexão final
 
 > **Por que você escolheu `while`, `do...while` ou uma combinação das duas
 > estruturas? Em qual parte do algoritmo a diferença entre testar a condição
