@@ -1,7 +1,7 @@
 ## Identificação
 
 
-| Aluno(a) | Pedro Henrique de Lira Tavares |
+| Aluno | Pedro Henrique de Lira Tavares |
 | Disciplina |  Algoritmos e Pensamento Computacional |
 | Professora | Karla Sartin |
 | Data de entrega | 23/09/2026 |
